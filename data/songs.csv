@@ -1,0 +1,36 @@
+id,title,artist,genre,mood,energy,tempo_bpm,danceability,acousticness
+1,Blinding Lights,The Weeknd,pop,happy,0.8,171,0.75,0.0
+2,Levitating,Dua Lipa,pop,happy,0.75,103,0.85,0.05
+3,Stay,Kid LAROI,pop,sad,0.6,170,0.65,0.1
+4,Heat Waves,Glass Animals,indie,melancholic,0.55,80,0.6,0.2
+5,As It Was,Harry Styles,pop,melancholic,0.65,174,0.7,0.15
+6,Bad Guy,Billie Eilish,pop,dark,0.45,135,0.7,0.1
+7,Rockstar,DaBaby,hip-hop,energetic,0.85,160,0.8,0.0
+8,Industry Baby,Lil Nas X,hip-hop,energetic,0.9,149,0.85,0.0
+9,Montero,Lil Nas X,hip-hop,happy,0.75,179,0.8,0.05
+10,drivers license,Olivia Rodrigo,pop,sad,0.3,96,0.3,0.5
+11,Gasoline,Halsey,alternative,dark,0.7,125,0.6,0.1
+12,Enemy,Imagine Dragons,rock,dark,0.78,148,0.55,0.05
+13,Bones,Imagine Dragons,rock,energetic,0.82,162,0.6,0.0
+14,Stressed Out,Twenty One Pilots,alternative,melancholic,0.65,169,0.65,0.1
+15,Ride,Twenty One Pilots,alternative,happy,0.72,160,0.7,0.05
+16,Sunflower,Post Malone,pop,happy,0.55,90,0.75,0.2
+17,Circles,Post Malone,pop,melancholic,0.6,120,0.7,0.15
+18,Nights,Frank Ocean,r&b,melancholic,0.5,109,0.55,0.3
+19,Pyramids,Frank Ocean,r&b,dark,0.45,86,0.5,0.25
+20,Sweater Weather,The Neighbourhood,indie,melancholic,0.55,124,0.55,0.3
+21,R U Mine?,Arctic Monkeys,rock,energetic,0.8,157,0.6,0.05
+22,Do I Wanna Know?,Arctic Monkeys,rock,melancholic,0.6,85,0.5,0.1
+23,Midnight Rain,Taylor Swift,pop,melancholic,0.55,111,0.65,0.2
+24,Anti-Hero,Taylor Swift,pop,sad,0.5,97,0.6,0.25
+25,Shake It Off,Taylor Swift,pop,happy,0.8,160,0.85,0.05
+26,sicko mode,Travis Scott,hip-hop,dark,0.88,155,0.75,0.0
+27,HUMBLE.,Kendrick Lamar,hip-hop,energetic,0.82,150,0.75,0.0
+28,DNA.,Kendrick Lamar,hip-hop,energetic,0.9,142,0.7,0.0
+29,Lost in the Fire,Gesaffelstein,electronic,dark,0.75,128,0.7,0.0
+30,Strobe,deadmau5,electronic,melancholic,0.6,128,0.65,0.0
+31,Closer,Chainsmokers,electronic,happy,0.72,95,0.75,0.1
+32,Creepin,Metro Boomin,r&b,sad,0.55,130,0.6,0.15
+33,Die For You,The Weeknd,r&b,sad,0.5,110,0.55,0.2
+34,Moth To A Flame,Swedish House Mafia,electronic,dark,0.8,124,0.75,0.0
+35,Bron-Yr-Aur,Led Zeppelin,rock,melancholic,0.3,72,0.3,0.9
